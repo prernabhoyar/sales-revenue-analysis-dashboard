@@ -1,0 +1,16 @@
+Sales & Revenue Dashboard Insights
+
+1. Total sales reached 2.30M, showing strong overall business performance.
+
+2. Technology category contributed the highest share of sales compared to Furniture and Office Supplies.
+
+3. Total profit was 286.40K, indicating positive revenue generation across products.
+
+4. A small group of top-performing products generated a significant portion of total sales.
+
+5. Sales performance varied across different regions, highlighting opportunities for region-specific strategies.
+
+6. Sales trends changed over time, indicating periods of higher and lower business activity.
+
+Conclusion:
+The dashboard helps track sales performance, identify high-performing categories and products, and support data-driven business decisions.
